@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth-Socket</string>
+    <string name="none_paired">El dispositivo no ha sido encontrado</string>
+</resources>
